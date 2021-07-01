@@ -1,0 +1,21 @@
+{
+    "name": "sc-version-discoverability",
+    "version": "1.0.0",
+    "description": "Injects versions to smart contracts when compiled by hardhat.",
+    "main": "index.js",
+    "bin": "index.js",
+    "author": "DAOMaker",
+    "dependencies": {
+        "git-branch": "^2.0.1",
+        "hardhat": "^2.4.1",
+        "path": "^0.12.7"
+    },
+    "keywords": [
+        "blockchain",
+        "hardhat",
+        "plugin",
+        "solidity",
+        "smart contracts",
+        "versioning"
+    ]
+}
