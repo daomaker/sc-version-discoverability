@@ -1,10 +1,11 @@
 {
     "name": "sc-version-discoverability",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Injects versions to smart contracts when compiled by hardhat.",
     "main": "index.js",
     "bin": "index.js",
     "author": "DAOMaker",
+    "homepage": "https://https://github.com/daomaker/sc-version-discoverability",
     "dependencies": {
         "git-branch": "^2.0.1",
         "hardhat": "^2.4.1",
